@@ -75,4 +75,9 @@ We welcome contributions to the OpenAI Article Summarizer project. If you find a
 We would like to express our gratitude to the developers and contributors of the technologies and libraries used in this project. Your efforts enable us to create a powerful and user-friendly article summarization application.
 
 ---
+## Contact Us
 
+If you have any questions, feedback, or suggestions, please feel free to reach out to our team. We'd love to hear from you! You can contact us through the following means:
+Email: hiparth2001@gmail.com
+
+**Thank you for using the OpenAI Article Summarizer! If you have any questions or feedback, please don't hesitate to get in touch with us. Happy summarizing!**
